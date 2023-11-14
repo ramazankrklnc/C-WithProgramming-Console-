@@ -1,0 +1,7 @@
+C:\Users\ASUS\OneDrive\Masaüstü\C# with Programming\C# with Algorithm and Programming-201\Text(Metin)_Document_Operations\Text(Metin)_Document_Operations\bin\Debug\Text(Metin)_Document_Operations.exe.config
+C:\Users\ASUS\OneDrive\Masaüstü\C# with Programming\C# with Algorithm and Programming-201\Text(Metin)_Document_Operations\Text(Metin)_Document_Operations\bin\Debug\Text(Metin)_Document_Operations.exe
+C:\Users\ASUS\OneDrive\Masaüstü\C# with Programming\C# with Algorithm and Programming-201\Text(Metin)_Document_Operations\Text(Metin)_Document_Operations\bin\Debug\Text(Metin)_Document_Operations.pdb
+C:\Users\ASUS\OneDrive\Masaüstü\C# with Programming\C# with Algorithm and Programming-201\Text(Metin)_Document_Operations\Text(Metin)_Document_Operations\obj\Debug\Text(Metin)_Document_Operations.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Masaüstü\C# with Programming\C# with Algorithm and Programming-201\Text(Metin)_Document_Operations\Text(Metin)_Document_Operations\obj\Debug\Text(Metin)_Document_Operations.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Masaüstü\C# with Programming\C# with Algorithm and Programming-201\Text(Metin)_Document_Operations\Text(Metin)_Document_Operations\obj\Debug\Text(Metin)_Document_Operations.exe
+C:\Users\ASUS\OneDrive\Masaüstü\C# with Programming\C# with Algorithm and Programming-201\Text(Metin)_Document_Operations\Text(Metin)_Document_Operations\obj\Debug\Text(Metin)_Document_Operations.pdb

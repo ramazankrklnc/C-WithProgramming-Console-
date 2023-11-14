@@ -1,0 +1,7 @@
+C:\Users\ASUS\OneDrive\Masaüstü\C# with Programming\Arrays\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\ASUS\OneDrive\Masaüstü\C# with Programming\Arrays\Arrays\bin\Debug\Arrays.exe
+C:\Users\ASUS\OneDrive\Masaüstü\C# with Programming\Arrays\Arrays\bin\Debug\Arrays.pdb
+C:\Users\ASUS\OneDrive\Masaüstü\C# with Programming\Arrays\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Masaüstü\C# with Programming\Arrays\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Masaüstü\C# with Programming\Arrays\Arrays\obj\Debug\Arrays.exe
+C:\Users\ASUS\OneDrive\Masaüstü\C# with Programming\Arrays\Arrays\obj\Debug\Arrays.pdb

@@ -1,0 +1,7 @@
+C:\Users\ASUS\OneDrive\Masaüstü\C# with Programming\C# with Algorithm and Programming-201\Class and Object-2\Class and Object-2\bin\Debug\Class and Object-2.exe.config
+C:\Users\ASUS\OneDrive\Masaüstü\C# with Programming\C# with Algorithm and Programming-201\Class and Object-2\Class and Object-2\bin\Debug\Class and Object-2.exe
+C:\Users\ASUS\OneDrive\Masaüstü\C# with Programming\C# with Algorithm and Programming-201\Class and Object-2\Class and Object-2\bin\Debug\Class and Object-2.pdb
+C:\Users\ASUS\OneDrive\Masaüstü\C# with Programming\C# with Algorithm and Programming-201\Class and Object-2\Class and Object-2\obj\Debug\Class and Object-2.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Masaüstü\C# with Programming\C# with Algorithm and Programming-201\Class and Object-2\Class and Object-2\obj\Debug\Class and Object-2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Masaüstü\C# with Programming\C# with Algorithm and Programming-201\Class and Object-2\Class and Object-2\obj\Debug\Class and Object-2.exe
+C:\Users\ASUS\OneDrive\Masaüstü\C# with Programming\C# with Algorithm and Programming-201\Class and Object-2\Class and Object-2\obj\Debug\Class and Object-2.pdb

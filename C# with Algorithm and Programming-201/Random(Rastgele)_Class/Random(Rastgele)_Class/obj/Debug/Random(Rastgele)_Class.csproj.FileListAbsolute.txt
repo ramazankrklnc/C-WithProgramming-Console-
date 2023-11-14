@@ -1,0 +1,7 @@
+C:\Users\ASUS\OneDrive\Masaüstü\C# with Programming\C# with Algorithm and Programming-201\Random(Rastgele)_Class\Random(Rastgele)_Class\bin\Debug\Random(Rastgele)_Class.exe.config
+C:\Users\ASUS\OneDrive\Masaüstü\C# with Programming\C# with Algorithm and Programming-201\Random(Rastgele)_Class\Random(Rastgele)_Class\bin\Debug\Random(Rastgele)_Class.exe
+C:\Users\ASUS\OneDrive\Masaüstü\C# with Programming\C# with Algorithm and Programming-201\Random(Rastgele)_Class\Random(Rastgele)_Class\bin\Debug\Random(Rastgele)_Class.pdb
+C:\Users\ASUS\OneDrive\Masaüstü\C# with Programming\C# with Algorithm and Programming-201\Random(Rastgele)_Class\Random(Rastgele)_Class\obj\Debug\Random(Rastgele)_Class.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Masaüstü\C# with Programming\C# with Algorithm and Programming-201\Random(Rastgele)_Class\Random(Rastgele)_Class\obj\Debug\Random(Rastgele)_Class.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Masaüstü\C# with Programming\C# with Algorithm and Programming-201\Random(Rastgele)_Class\Random(Rastgele)_Class\obj\Debug\Random(Rastgele)_Class.exe
+C:\Users\ASUS\OneDrive\Masaüstü\C# with Programming\C# with Algorithm and Programming-201\Random(Rastgele)_Class\Random(Rastgele)_Class\obj\Debug\Random(Rastgele)_Class.pdb

@@ -1,0 +1,7 @@
+C:\Users\ASUS\OneDrive\Masaüstü\C# with Programming\Loops\Loops\bin\Debug\Loops.exe.config
+C:\Users\ASUS\OneDrive\Masaüstü\C# with Programming\Loops\Loops\bin\Debug\Loops.exe
+C:\Users\ASUS\OneDrive\Masaüstü\C# with Programming\Loops\Loops\bin\Debug\Loops.pdb
+C:\Users\ASUS\OneDrive\Masaüstü\C# with Programming\Loops\Loops\obj\Debug\Loops.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Masaüstü\C# with Programming\Loops\Loops\obj\Debug\Loops.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Masaüstü\C# with Programming\Loops\Loops\obj\Debug\Loops.exe
+C:\Users\ASUS\OneDrive\Masaüstü\C# with Programming\Loops\Loops\obj\Debug\Loops.pdb

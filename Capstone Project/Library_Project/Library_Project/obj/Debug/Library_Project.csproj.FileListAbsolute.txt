@@ -1,0 +1,7 @@
+C:\Users\ASUS\OneDrive\Masaüstü\C# with Programming\Capstone Project\Library_Project\Library_Project\bin\Debug\Library_Project.exe.config
+C:\Users\ASUS\OneDrive\Masaüstü\C# with Programming\Capstone Project\Library_Project\Library_Project\bin\Debug\Library_Project.exe
+C:\Users\ASUS\OneDrive\Masaüstü\C# with Programming\Capstone Project\Library_Project\Library_Project\bin\Debug\Library_Project.pdb
+C:\Users\ASUS\OneDrive\Masaüstü\C# with Programming\Capstone Project\Library_Project\Library_Project\obj\Debug\Library_Project.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Masaüstü\C# with Programming\Capstone Project\Library_Project\Library_Project\obj\Debug\Library_Project.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Masaüstü\C# with Programming\Capstone Project\Library_Project\Library_Project\obj\Debug\Library_Project.exe
+C:\Users\ASUS\OneDrive\Masaüstü\C# with Programming\Capstone Project\Library_Project\Library_Project\obj\Debug\Library_Project.pdb

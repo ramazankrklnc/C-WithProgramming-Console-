@@ -1,0 +1,7 @@
+C:\Users\ASUS\OneDrive\Masaüstü\C# with Programming\C# with Algorithm and Programming-201\String Functions\String Functions\bin\Debug\String Functions.exe.config
+C:\Users\ASUS\OneDrive\Masaüstü\C# with Programming\C# with Algorithm and Programming-201\String Functions\String Functions\bin\Debug\String Functions.exe
+C:\Users\ASUS\OneDrive\Masaüstü\C# with Programming\C# with Algorithm and Programming-201\String Functions\String Functions\bin\Debug\String Functions.pdb
+C:\Users\ASUS\OneDrive\Masaüstü\C# with Programming\C# with Algorithm and Programming-201\String Functions\String Functions\obj\Debug\String Functions.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Masaüstü\C# with Programming\C# with Algorithm and Programming-201\String Functions\String Functions\obj\Debug\String Functions.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Masaüstü\C# with Programming\C# with Algorithm and Programming-201\String Functions\String Functions\obj\Debug\String Functions.exe
+C:\Users\ASUS\OneDrive\Masaüstü\C# with Programming\C# with Algorithm and Programming-201\String Functions\String Functions\obj\Debug\String Functions.pdb

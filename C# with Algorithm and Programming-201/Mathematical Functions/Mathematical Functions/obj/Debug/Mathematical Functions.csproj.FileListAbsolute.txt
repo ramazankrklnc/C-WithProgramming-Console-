@@ -1,0 +1,7 @@
+C:\Users\ASUS\OneDrive\Masaüstü\C# with Programming\C# with Algorithm and Programming-201\Mathematical Functions\Mathematical Functions\bin\Debug\Mathematical Functions.exe.config
+C:\Users\ASUS\OneDrive\Masaüstü\C# with Programming\C# with Algorithm and Programming-201\Mathematical Functions\Mathematical Functions\bin\Debug\Mathematical Functions.exe
+C:\Users\ASUS\OneDrive\Masaüstü\C# with Programming\C# with Algorithm and Programming-201\Mathematical Functions\Mathematical Functions\bin\Debug\Mathematical Functions.pdb
+C:\Users\ASUS\OneDrive\Masaüstü\C# with Programming\C# with Algorithm and Programming-201\Mathematical Functions\Mathematical Functions\obj\Debug\Mathematical Functions.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Masaüstü\C# with Programming\C# with Algorithm and Programming-201\Mathematical Functions\Mathematical Functions\obj\Debug\Mathematical Functions.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Masaüstü\C# with Programming\C# with Algorithm and Programming-201\Mathematical Functions\Mathematical Functions\obj\Debug\Mathematical Functions.exe
+C:\Users\ASUS\OneDrive\Masaüstü\C# with Programming\C# with Algorithm and Programming-201\Mathematical Functions\Mathematical Functions\obj\Debug\Mathematical Functions.pdb

@@ -1,0 +1,7 @@
+C:\Users\ASUS\OneDrive\Masaüstü\C# with Programming\Decision Structures\Decision Structures\obj\Debug\Decision Structures.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Masaüstü\C# with Programming\Decision Structures\Decision Structures\obj\Debug\Decision Structures.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Masaüstü\C# with Programming\Decision Structures\Decision Structures\bin\Debug\Decision Structures.exe.config
+C:\Users\ASUS\OneDrive\Masaüstü\C# with Programming\Decision Structures\Decision Structures\bin\Debug\Decision Structures.exe
+C:\Users\ASUS\OneDrive\Masaüstü\C# with Programming\Decision Structures\Decision Structures\bin\Debug\Decision Structures.pdb
+C:\Users\ASUS\OneDrive\Masaüstü\C# with Programming\Decision Structures\Decision Structures\obj\Debug\Decision Structures.exe
+C:\Users\ASUS\OneDrive\Masaüstü\C# with Programming\Decision Structures\Decision Structures\obj\Debug\Decision Structures.pdb

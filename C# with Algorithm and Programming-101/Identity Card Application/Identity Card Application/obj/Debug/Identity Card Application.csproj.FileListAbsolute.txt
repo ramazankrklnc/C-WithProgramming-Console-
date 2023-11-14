@@ -1,0 +1,7 @@
+C:\Users\ASUS\OneDrive\Masaüstü\C# with Programming\Identity Card Application\Identity Card Application\bin\Debug\Identity Card Application.exe.config
+C:\Users\ASUS\OneDrive\Masaüstü\C# with Programming\Identity Card Application\Identity Card Application\bin\Debug\Identity Card Application.exe
+C:\Users\ASUS\OneDrive\Masaüstü\C# with Programming\Identity Card Application\Identity Card Application\bin\Debug\Identity Card Application.pdb
+C:\Users\ASUS\OneDrive\Masaüstü\C# with Programming\Identity Card Application\Identity Card Application\obj\Debug\Identity Card Application.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Masaüstü\C# with Programming\Identity Card Application\Identity Card Application\obj\Debug\Identity Card Application.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Masaüstü\C# with Programming\Identity Card Application\Identity Card Application\obj\Debug\Identity Card Application.exe
+C:\Users\ASUS\OneDrive\Masaüstü\C# with Programming\Identity Card Application\Identity Card Application\obj\Debug\Identity Card Application.pdb

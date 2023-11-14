@@ -1,0 +1,7 @@
+C:\Users\ASUS\OneDrive\Masaüstü\C# with Programming\C# with Algorithm and Programming-201\Date and Time Functions\Date and Time Functions\bin\Debug\Date and Time Functions.exe.config
+C:\Users\ASUS\OneDrive\Masaüstü\C# with Programming\C# with Algorithm and Programming-201\Date and Time Functions\Date and Time Functions\bin\Debug\Date and Time Functions.exe
+C:\Users\ASUS\OneDrive\Masaüstü\C# with Programming\C# with Algorithm and Programming-201\Date and Time Functions\Date and Time Functions\bin\Debug\Date and Time Functions.pdb
+C:\Users\ASUS\OneDrive\Masaüstü\C# with Programming\C# with Algorithm and Programming-201\Date and Time Functions\Date and Time Functions\obj\Debug\Date Time Functions.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Masaüstü\C# with Programming\C# with Algorithm and Programming-201\Date and Time Functions\Date and Time Functions\obj\Debug\Date Time Functions.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Masaüstü\C# with Programming\C# with Algorithm and Programming-201\Date and Time Functions\Date and Time Functions\obj\Debug\Date and Time Functions.exe
+C:\Users\ASUS\OneDrive\Masaüstü\C# with Programming\C# with Algorithm and Programming-201\Date and Time Functions\Date and Time Functions\obj\Debug\Date and Time Functions.pdb

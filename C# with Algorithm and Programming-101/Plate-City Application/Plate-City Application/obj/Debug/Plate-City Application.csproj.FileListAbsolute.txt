@@ -1,0 +1,7 @@
+C:\Users\ASUS\OneDrive\Masaüstü\C# with Programming\Plate-City Application\Plate-City Application\obj\Debug\Plate-City Application.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Masaüstü\C# with Programming\Plate-City Application\Plate-City Application\obj\Debug\Plate-City Application.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Masaüstü\C# with Programming\Plate-City Application\Plate-City Application\bin\Debug\Plate-City Application.exe.config
+C:\Users\ASUS\OneDrive\Masaüstü\C# with Programming\Plate-City Application\Plate-City Application\bin\Debug\Plate-City Application.exe
+C:\Users\ASUS\OneDrive\Masaüstü\C# with Programming\Plate-City Application\Plate-City Application\bin\Debug\Plate-City Application.pdb
+C:\Users\ASUS\OneDrive\Masaüstü\C# with Programming\Plate-City Application\Plate-City Application\obj\Debug\Plate-City Application.exe
+C:\Users\ASUS\OneDrive\Masaüstü\C# with Programming\Plate-City Application\Plate-City Application\obj\Debug\Plate-City Application.pdb

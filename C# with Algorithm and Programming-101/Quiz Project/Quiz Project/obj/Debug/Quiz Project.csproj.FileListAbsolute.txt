@@ -1,0 +1,7 @@
+C:\Users\ASUS\OneDrive\Masaüstü\C# with Programming\Quiz Project\Quiz Project\bin\Debug\Quiz Project.exe.config
+C:\Users\ASUS\OneDrive\Masaüstü\C# with Programming\Quiz Project\Quiz Project\bin\Debug\Quiz Project.exe
+C:\Users\ASUS\OneDrive\Masaüstü\C# with Programming\Quiz Project\Quiz Project\bin\Debug\Quiz Project.pdb
+C:\Users\ASUS\OneDrive\Masaüstü\C# with Programming\Quiz Project\Quiz Project\obj\Debug\Quiz Project.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Masaüstü\C# with Programming\Quiz Project\Quiz Project\obj\Debug\Quiz Project.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Masaüstü\C# with Programming\Quiz Project\Quiz Project\obj\Debug\Quiz Project.exe
+C:\Users\ASUS\OneDrive\Masaüstü\C# with Programming\Quiz Project\Quiz Project\obj\Debug\Quiz Project.pdb
